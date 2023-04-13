@@ -1,1 +1,3 @@
-klslkdflsdkf
+git add .
+git commit -m "maghribi assil s"
+git push
